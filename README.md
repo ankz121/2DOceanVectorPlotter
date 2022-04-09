@@ -21,7 +21,8 @@ Small Scale Diagram:
 ![2DVectorPlotSmallScale](https://user-images.githubusercontent.com/68083724/159191373-04588ee6-2f42-4244-8840-6ad75485f00f.png)
 
 3D surface Plot
-![fig1 (3)](https://user-images.githubusercontent.com/68083724/162592082-83912632-ac61-4e57-a2d7-2bd2c06a3d53.png)
+![fig1 (6)](https://user-images.githubusercontent.com/68083724/162594689-1ca9b3fc-0715-480d-a89f-a1403f7db502.png)
+
 
 3D Wireframe
-![fig1 (4)](https://user-images.githubusercontent.com/68083724/162592085-dd645a99-f78f-46e2-afb8-e25c10165e68.png)
+![fig1 (5)](https://user-images.githubusercontent.com/68083724/162594687-63318023-0346-48cc-961a-d159ec573cc3.png)
