@@ -19,3 +19,9 @@ Large Scale Diagram:
 
 Small Scale Diagram:
 ![2DVectorPlotSmallScale](https://user-images.githubusercontent.com/68083724/159191373-04588ee6-2f42-4244-8840-6ad75485f00f.png)
+
+3D surface Plot
+![fig1 (3)](https://user-images.githubusercontent.com/68083724/162592082-83912632-ac61-4e57-a2d7-2bd2c06a3d53.png)
+
+3D Wireframe
+![fig1 (4)](https://user-images.githubusercontent.com/68083724/162592085-dd645a99-f78f-46e2-afb8-e25c10165e68.png)
