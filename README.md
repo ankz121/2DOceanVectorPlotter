@@ -2,6 +2,7 @@
 Plotting a 2D vector which displays ocean current directions using matplotlib.pyplot. Currents are plotted at a certain depth only. Dataset was downloaded from the ROMS Real Time Forecasting website. The file were formatted in a .nc file type.
 To change the depth simply change the array index on depth = depths[]
 Change m, n to use more or less data.
+Expand image for a higher res image.
 
 For the .py (Python file) change the data address to where ever your nc file is located at.
 
