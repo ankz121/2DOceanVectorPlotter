@@ -6,6 +6,8 @@ Expand image for a higher res image.
 
 For the .py (Python file) change the data address to where ever your nc file is located at.
 
+Run the roms_ncst_download.sh or roms_fcst_download.sh to download all the nc files from the roms website
+
 Sample nc file was uploaded.
 See results for results.
 
